@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-color: black;
+    
+}        
+#one{
+width: 100%; 
+}
+.a{
+    position: center;
+    width: 290px;
+    height: 300px;}
+#w{
+   position: center;
+    width: 200px;
+    height: 300px;
+}
+#heer{
+    width: 100%;
+}
+img { transition: transform .2s; } img:hover { transform: scale(0.9); }
+.puppy{
+    height: 500px;
+}
+.dad{
+    font-family: 'Dosis', sans-serif;
+}
+#heer11 {
+    font-size:25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.heer12{
+    font-family: 'Ballet', cursive;
+    font-size: 40px;
+    color:darkviolet;
+ }
+ .carousel-inner {
+    background-color:rgb(2, 3, 3);
+    color:cornsilk;
+}
